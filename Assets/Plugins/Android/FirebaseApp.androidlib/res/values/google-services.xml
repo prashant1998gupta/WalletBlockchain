@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:keep="@string/firebase_database_url,@string/gcm_defaultSenderId,@string/google_storage_bucket,@string/project_id,@string/google_api_key,@string/google_crash_reporting_api_key,@string/google_app_id,@string/default_web_client_id">
+  <string name="firebase_database_url" translatable="false">https://walletblockchain-1524c-default-rtdb.firebaseio.com</string>
+  <string name="gcm_defaultSenderId" translatable="false">990809161459</string>
+  <string name="google_storage_bucket" translatable="false">walletblockchain-1524c.appspot.com</string>
+  <string name="project_id" translatable="false">walletblockchain-1524c</string>
+  <string name="google_api_key" translatable="false">AIzaSyBpoLGIsbDKRf4nWj5rAH30AAJL3zfsx14</string>
+  <string name="google_crash_reporting_api_key" translatable="false">AIzaSyBpoLGIsbDKRf4nWj5rAH30AAJL3zfsx14</string>
+  <string name="google_app_id" translatable="false">1:990809161459:android:8a99a92d2de38df323c186</string>
+  <string name="default_web_client_id" translatable="false">990809161459-cuq4lhha5hcf5m51tb4go52hqv7v61ro.apps.googleusercontent.com</string>
+</resources>

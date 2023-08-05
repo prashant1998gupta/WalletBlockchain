@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "990809161459",
+    "firebase_url": "https://walletblockchain-1524c-default-rtdb.firebaseio.com",
+    "project_id": "walletblockchain-1524c",
+    "storage_bucket": "walletblockchain-1524c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:990809161459:android:8a99a92d2de38df323c186",
+        "android_client_info": {
+          "package_name": "com.PresentingTech.Wallet_Blockchain"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "990809161459-cuq4lhha5hcf5m51tb4go52hqv7v61ro.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBpoLGIsbDKRf4nWj5rAH30AAJL3zfsx14"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "990809161459-cuq4lhha5hcf5m51tb4go52hqv7v61ro.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
